@@ -1,4 +1,6 @@
 #启动proxy，默认端口是9000，可在proxy.conf里修改。建议安装python 2.6 +
 python proxy.py
 
-配置系统代理，使用文件autoproxy.pac. safari和chrome都是使用本机网络配置，firefox单独配置。
+配置系统代理，使用文件autoproxy.pac. safari和chrome都是使用本机网络配置，firefox单独配置�
+
+���ĽУ����ԡ�
